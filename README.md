@@ -1,4 +1,4 @@
-**Task -Car Price Prediction using Machine Learning**
+**Task - Car Price Prediction using Machine Learning**
 
 This project focuses on predicting the selling price of used cars by analyzing key vehicle attributes and applying a machine learning regression model.
 
